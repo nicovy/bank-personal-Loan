@@ -1,5 +1,7 @@
 # Bank Personal Loan
 
+## CSCA 5622 Supervised Learning Final Project
+
 Nicolas Veas
 
 ## Introduction
